@@ -1,0 +1,14 @@
+D:\HoCongCuong\BaiTap\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\HoCongCuong\BaiTap\Domain\bin\Debug\net6.0\Domain.dll
+D:\HoCongCuong\BaiTap\Domain\bin\Debug\net6.0\Domain.pdb
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.dll
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.pdb
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\HoCongCuong\BaiTap\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\HoCongCuong\BaiTap\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
